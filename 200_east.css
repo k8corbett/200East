@@ -1,0 +1,47 @@
+body {
+    margin: 70px;
+    background-image: url("unfold.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    text-align: left;
+}
+h3 {
+    text-align: left;
+    padding-left: 50px;
+}
+#poe {
+    padding: 4px 50px 5px 30px;
+    text-align: justify;
+    border: solid 2px black;
+}
+
+figure {
+    padding: 10px;
+}
+
+#lead {
+    padding-left: 30px;
+}
+#footer {
+    text-align: center;
+}
+nav {
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 150px;
+    margin-bottom: 30px;
+
+}
+nav ul li {
+    margin: 5px;
+    display: inline;
+    padding: 7px;
+    border: .5px solid white;
+    background-image: linear-gradient(white, white, gray);
+}
+nav ul li a 
+{
+    text-decoration: none;
+}
